@@ -1,0 +1,1 @@
+This is a file for the tamagotchi project in week 3. 
